@@ -1,3 +1,3 @@
 # Large Language Models as Containers
 
-- [Building Open-Source ChatGPT With Ollama]()
+- [Running Open-Source ChatGPT With Ollama](https://github.com/ContainerTalks/llms/tree/main/ollama#ollama)
